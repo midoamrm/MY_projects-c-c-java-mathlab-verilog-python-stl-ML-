@@ -1,0 +1,18 @@
+Dependencies for Project 'micro_p', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532CD432)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\GPIO_Int.h)(0x5E5A88CF)()
+F (.\GPIO_prog.c)(0x5ED680C7)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\gpio_prog.o --omf_browse .\gpio_prog.crf --depend .\gpio_prog.d)
+I (GPIO_Int.h)(0x5E5A88CF)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C8A654)
+I (C:/Keil/EE319KwareSpring2020/inc/tm4c123gh6pm.h)(0x5388DEFA)
+F (.\main.c)(0x5ED6805C)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C8A654)
+I (C:/Keil/EE319KwareSpring2020/inc/tm4c123gh6pm.h)(0x5388DEFA)
+I (GPIO_int.h)(0x5E5A88CF)
+I (KPD_Int .h)(0x5ED67A81)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C8A654)
+F (.\KPD_Int .h)(0x5ED67A81)()
+F (.\KPD_prog .c)(0x5ED67EE4)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o ".\kpd_prog .o" --omf_browse ".\kpd_prog .crf" --depend ".\kpd_prog .d")
+I (KPD_Int .h)(0x5ED67A81)
+I (GPIO_Int.h)(0x5E5A88CF)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C8A654)

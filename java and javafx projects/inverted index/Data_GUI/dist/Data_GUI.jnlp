@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Data_GUI.jnlp">
+  <information>
+    <title>Data_GUI</title>
+    <vendor>SOLUTIONS</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Data_GUI.jar" size="21238" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="sample.DOUCment_SERCh"  name="Data_GUI" />
+  <update check="always"/>
+</jnlp>

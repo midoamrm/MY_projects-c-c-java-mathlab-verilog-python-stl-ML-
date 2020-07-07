@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="GUI_OSS.jnlp">
+  <information>
+    <title>GUI_OSS</title>
+    <vendor>SOLUTIONS</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="GUI_OSS.jar" size="70027" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="sample.sample"  name="GUI_OSS" />
+  <update check="always"/>
+</jnlp>
